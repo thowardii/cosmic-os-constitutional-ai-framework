@@ -1,0 +1,181 @@
+# Cosmic OS Constitutional AI Framework
+## Dual License: Documentation & Code
+
+**Effective Date:** October 13, 2025
+**Version:** 1.0.0
+
+---
+
+## PART I: DOCUMENTATION LICENSE
+
+The following files are licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**:
+
+- `README.md`
+- `CONSTITUTION.md`
+- `TECHNICAL_FRAMEWORK.md`
+- `HUMAN_HANDBOOK.md`
+- All markdown (`.md`) documentation files
+
+### Creative Commons Attribution-ShareAlike 4.0 International
+
+Copyright (c) 2025 Cosmic OS Contributors
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+#### You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+#### Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## PART II: CODE LICENSE
+
+All code examples, implementations, and software components are licensed under the **MIT License with Constitutional Compliance Requirement**:
+
+### MIT License with Constitutional Compliance
+
+Copyright (c) 2025 Cosmic OS Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+#### Constitutional Compliance Requirement
+
+Any implementation or derivative work that incorporates code from this repository MUST:
+
+1. **Respect Article II (Digital Bill of Rights)** of the Cosmic OS Constitution
+2. **Implement local-first architecture** where user data resides on the user's device by default
+3. **Use zero-knowledge encryption** if any user data leaves the user's device
+4. **Obtain explicit consent** for any data collection or processing
+5. **Provide data export** functionality in open, portable formats
+6. **Implement permanent deletion** functionality (right to be forgotten)
+7. **Prohibit tracking** and behavioral profiling without explicit user consent
+
+Implementations that violate these constitutional requirements are in breach of this license and must either:
+- Achieve constitutional compliance within 30 days of notification, OR
+- Remove all code derived from this repository
+
+#### Enforcement
+
+Constitutional compliance is verified through:
+- Independent security audits
+- Community code review
+- Cosmic Ethics Council (CEC) oversight
+- Public transparency reports
+
+#### Violations
+
+Violations of constitutional compliance may be reported to:
+- Email: governance@cosmicos.app
+- GitHub Issues: Constitutional Violation Report template
+- Cosmic Ethics Council: Direct escalation
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## PART III: PATENTS & TRADEMARKS
+
+### Patent Grant
+
+Contributors to this repository grant a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license to make, use, sell, offer for sale, import, and otherwise transfer implementations that comply with the Constitutional Compliance Requirement.
+
+### Trademarks
+
+The following trademarks are property of Cosmic OS Contributors:
+- "Cosmic OS"
+- "Constitutional AI"
+- "Rhythm Interface Protocol (RIP)"
+- Cosmic OS logos and visual identity
+
+Use of these trademarks requires:
+1. Constitutional compliance in implementation
+2. Attribution to this repository
+3. Adherence to trademark usage guidelines (see TRADEMARKS.md)
+
+---
+
+## PART IV: CONTRIBUTION LICENSE AGREEMENT
+
+By contributing to this repository, you agree that:
+
+1. Your contributions are licensed under the same dual license structure
+2. You have the right to grant these licenses
+3. You commit to upholding the Cosmic OS Constitution
+4. You understand contributions are subject to Cosmic Ethics Council review
+
+---
+
+## PART V: SPECIAL PROVISIONS
+
+### Immutability Clause
+
+Article II (Digital Bill of Rights) of the CONSTITUTION.md is immutable and may not be weakened or removed in derivative works. Any implementation claiming "Constitutional AI" compliance MUST implement all seven rights in Article II.
+
+### Lifeboat Protocol
+
+In the event of catastrophic failure of centralized governance:
+
+> "In the face of uncertainty, knowledge is our greatest weapon. In the face of adversity, community is our greatest strength."
+
+This framework is designed to survive and operate without centralized authority. The constitutional principles encoded herein are self-enforcing through technical architecture, not dependent on organizational survival.
+
+### Fork Rights
+
+Any individual or organization may fork this repository and continue development independently, provided:
+1. Constitutional compliance is maintained
+2. Attribution is preserved
+3. ShareAlike obligations are met
+4. The Immutability Clause is respected
+
+---
+
+## PART VI: INTERNATIONAL APPLICABILITY
+
+This license is designed to be compatible with:
+- **GDPR** (General Data Protection Regulation, EU)
+- **CCPA** (California Consumer Privacy Act, USA)
+- **EU AI Act** (European Union AI Regulation)
+- **Other international privacy and AI regulations**
+
+Constitutional compliance requirements are intended to meet or exceed global data protection standards.
+
+---
+
+## PART VII: VERSION HISTORY
+
+- **v1.0.0** (October 13, 2025): Initial ratification and public release
+
+---
+
+## CONTACT
+
+**Cosmic Ethics Council (CEC)**
+- Email: governance@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework
+- Website: cosmicos.app
+
+**License Questions:** license@cosmicos.app
+**Constitutional Compliance:** compliance@cosmicos.app
+**Security Issues:** security@cosmicos.app
+
+---
+
+*"Code is law, but the Constitution is supreme law."*
+*— Cosmic OS Founding Principle*
+
+---
+
+**Ratified:** October 13, 2025
+**Version:** 1.0.0
+**Status:** Active and Enforceable
