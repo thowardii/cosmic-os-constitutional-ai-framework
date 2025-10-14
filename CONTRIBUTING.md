@@ -289,7 +289,7 @@ Use the [Constitutional Violation Report](.github/ISSUE_TEMPLATE/constitutional_
 ### Security Vulnerabilities
 
 **Responsible Disclosure:**
-- Email: security@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/security/advisories/new
 - PGP Key: [Coming Soon]
 - Response: Within 72 hours
 - Public disclosure: After fix deployed (or 90 days, whichever sooner)
@@ -435,15 +435,15 @@ Exceptional contributors recognized in:
 - Issue Comments: Clarify specific issues
 
 **Governance Questions:**
-- Email: governance@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 - CEC Office Hours: [Coming Soon]
 
 **Security Questions:**
-- Email: security@cosmicos.app (PGP encrypted)
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/security/advisories/new (PGP encrypted)
 
 **General Inquiries:**
-- Email: hello@cosmicos.app
-- Website: cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
+- Repository: https://github.com/thowardii/cosmic-os-constitutional-ai-framework
 
 ---
 

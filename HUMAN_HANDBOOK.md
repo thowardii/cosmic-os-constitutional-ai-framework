@@ -203,7 +203,7 @@ Result: Approved (crossed 67% threshold)
 ↓
 Feature added in next release
 ↓
-Audit log: governance.cosmic-os.org/proposals/2025-10-13-task-scheduling
+Audit log: github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions (proposal: 2025-10-13-task-scheduling
 ```
 
 ---
@@ -1434,7 +1434,7 @@ Settings → Privacy → Tracking Status
 │ Data shared with advertisers: NONE  │
 │                                     │
 │ Network Activity (Last 7 Days):     │
-│  cosmicos.app (API calls): 23       │
+│  github.com/thowardii/cosmic-os-constitutional-ai-framework (API calls): 23       │
 │  No other domains contacted         │
 │                                     │
 │ You can verify:                     │
@@ -1646,6 +1646,6 @@ This handbook is your guide to building, using, and advocating for constitutiona
 ---
 
 **Repository:** github.com/thoward/cosmic-os-constitutional-ai-framework
-**Website:** cosmicos.app
-**Community:** discord.gg/cosmicos
-**Email:** governance@cosmicos.app
+**Website:** github.com/thowardii/cosmic-os-constitutional-ai-framework
+**Community:** github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
+**Email:** https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions

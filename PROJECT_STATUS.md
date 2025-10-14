@@ -232,7 +232,7 @@ See the comprehensive release notes in [create_release.sh](create_release.sh) li
    The world's first Constitutional AI Framework establishing democratic governance
    with absolute user sovereignty. Local-first, zero-knowledge, Byzantine consensus.
    ```
-3. Set Website: `https://cosmicos.app` (or your domain)
+3. Set Website: `https://github.com/thowardii/cosmic-os-constitutional-ai-framework` (or your domain)
 4. Add Topics:
    - `constitutional-ai`
    - `democratic-governance`
@@ -363,14 +363,14 @@ Add quick links to the top of README.md:
 ## 📞 Contact Information
 
 **Cosmic Ethics Council (CEC):**
-- Email: governance@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 - GitHub: @thowardii/cosmic-os-constitutional-ai-framework
-- Website: cosmicos.app
+- Repository: https://github.com/thowardii/cosmic-os-constitutional-ai-framework
 
 **For Different Inquiries:**
-- Security: security@cosmicos.app
-- Press: press@cosmicos.app
-- General: hello@cosmicos.app
+- Security: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/security/advisories/new
+- Press: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
+- General: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 
 ---
 

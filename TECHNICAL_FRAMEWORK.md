@@ -844,7 +844,7 @@ class RhythmScheduler {
 
 ```json
 {
-  "$schema": "https://cosmic-os.org/schemas/rip-pattern.v1.json",
+  "$schema": "https://github.com/thowardii/cosmic-os-constitutional-ai-framework/blob/main/schemas/rip-pattern.v1.json",
   "pattern_id": "usr_alice_daily_2025-10-13",
   "user_id": "alice@example.com",
   "detected_at": "2025-10-13T14:30:00Z",

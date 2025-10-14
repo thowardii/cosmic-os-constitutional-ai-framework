@@ -517,8 +517,8 @@ This Constitution is ratified and effective as of **October 13, 2025**.
 ---
 
 **For questions, concerns, or constitutional inquiries:**
-- Cosmic Ethics Council: ethics@cosmic-os.org
-- Constitutional Review: constitution@cosmic-os.org
+- Cosmic Ethics Council: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
+- Constitutional Review: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 - Public Repository: github.com/thoward/cosmic-os-constitutional-ai-framework
 
 ---

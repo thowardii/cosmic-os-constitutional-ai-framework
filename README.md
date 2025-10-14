@@ -381,10 +381,10 @@ Reference implementations (code) are licensed under **MIT License** unless other
 ## 🌐 Community
 
 ### Get Involved
-- **Website:** https://cosmicos.app
+- **Website:** https://github.com/thowardii/cosmic-os-constitutional-ai-framework
 - **GitHub:** https://github.com/thoward/cosmic-os-constitutional-ai-framework
-- **Discord:** discord.gg/cosmicos (coming soon)
-- **Email:** governance@cosmicos.app
+- **Discord:** github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions (coming soon)
+- **Email:** https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 
 ### Stay Updated
 - ⭐ Star this repository
@@ -447,17 +447,17 @@ Reference implementations (code) are licensed under **MIT License** unless other
 ## 📞 Contact
 
 **Cosmic Ethics Council (CEC)**
-- Email: governance@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 - GitHub: @thoward/cosmic-os-constitutional-ai-framework
-- Website: cosmicos.app
+- Repository: https://github.com/thowardii/cosmic-os-constitutional-ai-framework
 
 **Security Issues**
-- Email: security@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/security/advisories/new
 - PGP Key: [Coming Soon]
 - Responsible Disclosure: 72-hour public disclosure policy
 
 **Press Inquiries**
-- Email: press@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 - Media Kit: [Coming Soon]
 
 ---

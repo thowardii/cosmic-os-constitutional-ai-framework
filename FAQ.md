@@ -512,14 +512,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for complete guidelines.
 - 💬 Join GitHub Discussions
 
 **Community:**
-- Discord: discord.gg/cosmicos (coming soon)
-- Newsletter: Subscribe at cosmicos.app
+- Discord: github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions (coming soon)
+- Newsletter: Subscribe at github.com/thowardii/cosmic-os-constitutional-ai-framework
 - Twitter/X: #ConstitutionalAI
 
 **Email:**
-- General: hello@cosmicos.app
-- Governance: governance@cosmicos.app
-- Security: security@cosmicos.app
+- General: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
+- Governance: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
+- Security: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/security/advisories/new
 
 ---
 
@@ -532,16 +532,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for complete guidelines.
 - Read the docs: [TECHNICAL_FRAMEWORK.md](TECHNICAL_FRAMEWORK.md)
 
 **Governance questions:**
-- Email: governance@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 - CEC office hours (coming soon)
 
 **Security questions:**
-- Email: security@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/security/advisories/new
 - PGP key: (coming soon)
 
 **General inquiries:**
-- Email: hello@cosmicos.app
-- Website: cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
+- Repository: https://github.com/thowardii/cosmic-os-constitutional-ai-framework
 
 ---
 
@@ -563,7 +563,7 @@ Use the [Constitutional Violation Report template](https://github.com/thowardii/
 ### How do I report a security vulnerability?
 
 **Responsible disclosure:**
-- Email: security@cosmicos.app
+- GitHub: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/security/advisories/new
 - PGP key: (coming soon)
 - Response: Within 72 hours
 - Public disclosure: After fix deployed (or 90 days max)
@@ -670,7 +670,7 @@ Use the [Constitutional Violation Report template](https://github.com/thowardii/
 
 ---
 
-**Still have questions?** Ask in [GitHub Discussions](https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions) or email hello@cosmicos.app
+**Still have questions?** Ask in [GitHub Discussions](https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions) 
 
 **Ready to build?** Start with [QUICKSTART.md](QUICKSTART.md)
 

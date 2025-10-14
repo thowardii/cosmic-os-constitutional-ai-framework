@@ -369,7 +369,7 @@ Happy to discuss further.
 Best,
 [Your Name]
 Cosmic OS Constitutional AI Framework
-governance@cosmicos.app
+https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 ```
 
 ---
@@ -424,7 +424,7 @@ I'd welcome your expertise on constitutional technology.
 Best regards,
 [Your Name]
 Cosmic OS Constitutional AI Framework
-governance@cosmicos.app
+https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 ```
 
 ---
@@ -568,7 +568,7 @@ The framework is designed to be adopted by any AI system, creating an ecosystem
 of constitutionally-governed technology that respects human sovereignty.
 
 Repository: https://github.com/thowardii/cosmic-os-constitutional-ai-framework
-Contact: governance@cosmicos.app
+Contact: https://github.com/thowardii/cosmic-os-constitutional-ai-framework/discussions
 
 ###
 ```
