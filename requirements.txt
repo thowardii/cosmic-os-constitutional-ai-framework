@@ -1,0 +1,20 @@
+# Cosmic OS Constitutional AI Framework - Dependencies
+
+# Core dependencies
+numpy>=1.24.0          # For FFT-based rhythm analysis
+cryptography>=41.0.0   # For zero-knowledge encryption
+
+# Testing dependencies
+pytest>=7.4.0          # Test framework
+pytest-asyncio>=0.21.0 # Async test support
+pytest-cov>=4.1.0      # Code coverage
+
+# Development dependencies
+black>=23.0.0          # Code formatting
+mypy>=1.5.0            # Type checking
+flake8>=6.1.0          # Linting
+isort>=5.12.0          # Import sorting
+
+# Documentation dependencies
+mkdocs>=1.5.0          # Documentation generator
+mkdocs-material>=9.4.0 # Material theme for docs
