@@ -191,9 +191,6 @@ The Cosmic OS framework is currently implemented in the **How2 Autopilot** proje
 - ✅ **Zero-Knowledge Sync**: Cloud storage optional, encrypted client-side
 - ✅ **Rhythm Engine**: FFT-based rhythm detection with coherence scoring
 
-**Repository:** `D:/Projects` (monorepo)
-**Documentation:** See [schemas/](schemas/) folder
-
 ---
 
 ## 📖 Learning Paths
