@@ -239,7 +239,7 @@ class KnowledgeNode:
     def set_federation_scope(self, scope: FederationLevel) -> None:
         """Set constitutional sharing level"""
         self.federation_scope = scope
-        self._log_constitutional_event("federation_scope_changed", {"new_scope": scope.value})
+        self._log_constitutional_event("federation_scope_changed", {"new_scope": scope})
 
     def _sign_content(self, content: str) -> str:
         """Simplified cryptographic signing for demo"""
@@ -251,7 +251,7 @@ class KnowledgeNode:
             "event_type": event_type,
             "node_id": self.node_id,
             "timestamp": time.time(),
-            "federation_scope": self.federation_scope.value,
+            "federation_scope": self.federation_scope,
             "event_details": details
         }
         self.audit_log.append(audit_entry)
@@ -350,7 +350,7 @@ if __name__ == "__main__":
         total_audit_events = sum(len(node.get_audit_trail()) for node in nodes)
 
         print(f"Total Sovereign Nodes: {len(nodes)}")
-        print(f"Federation Scope: {federation_scope.value}")
+        print(f"Federation Scope: {federation_scope}")
         print(f"Bloom Cycles Executed: {args.bloom_cycles}")
         print(f"Total Constitutional Events: {total_audit_events}")
         print("All knowledge exchange complied with constitutional rights")
