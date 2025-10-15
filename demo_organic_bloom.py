@@ -332,8 +332,7 @@ if __name__ == "__main__":
                     except ConstitutionalViolationError as e:
                         print(f"  ❌ Node {i}: Constitutional violation: {e}")
 
-        print("
-🔄 ORGANIC BLOSSOMING CYCLES...")
+        print("\n🔄 ORGANIC BLOSSOMING CYCLES...")
         print("-" * 40)
 
         # Execute blossoming cycles (demonstrating federation)
@@ -345,8 +344,7 @@ if __name__ == "__main__":
                 result = node.organic_blossoming_cycle()
                 print(f"    ✓ Blooms exchanged: {result['blooms_exchanged']}, Sovereignty preserved: {result['cycle_end'] > result['cycle_start']}")
 
-        print("
-🏛️  CONSTITUTIONAL AUDIT SUMMARY")
+        print("\n🏛️  CONSTITUTIONAL AUDIT SUMMARY")
         print("=" * 60)
 
         total_audit_events = sum(len(node.get_audit_trail()) for node in nodes)
